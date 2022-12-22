@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, we are Team Legogoa</h1>
-<h3 align="center">We are a small team of young minds with lots of innovative ideas. And as our name suggests - we're based out of Goa.</h3>
+<h1 align="left">Hi 👋, we are Team Legogoa</h1>
+<h3 align="left">We are a small team of young minds with lots of innovative ideas. And as our name suggests - we're based out of Goa.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legogoa-axiom&label=Profile%20views&color=0e75b6&style=flat" alt="legogoa-axiom" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 Our projects [Project FTC](legogoa.in)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with our Legogoa team:</h3>
 <p align="left">
 <a href="https://fb.com/legogoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="legogoa" height="30" width="40" /></a>
 </p>
