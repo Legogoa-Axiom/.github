@@ -5,7 +5,7 @@
 
 - 🌐 You can check out our website on [legogoa.in](legogoa.in)
 
-- 👨‍💻 Our projects [Project FTC](legogoa.in)
+- 👨‍💻 Our [Ftc Projects](legogoa.in)
 
 <h3 align="left">Connect with our Legogoa team:</h3>
 <p align="left">
